@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="https://diogosm.github.io/blog/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://diogosm.github.io/blog/blog/" rel="alternate" type="text/html" /><updated>2019-06-09T00:18:22-05:00</updated><id>https://diogosm.github.io/blog/blog/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="https://diogosm.github.io/blog/blog/jekyll/update/2019/06/08/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-06-08T17:01:49-05:00</published><updated>2019-06-08T17:01:49-05:00</updated><id>https://diogosm.github.io/blog/blog/jekyll/update/2019/06/08/welcome-to-jekyll</id><content type="html" xml:base="https://diogosm.github.io/blog/blog/jekyll/update/2019/06/08/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://diogosm.github.io/blog/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://diogosm.github.io/blog/blog/" rel="alternate" type="text/html" /><updated>2019-06-09T00:48:41-05:00</updated><id>http://diogosm.github.io/blog/blog/feed.xml</id><title type="html">Reverie</title><subtitle>An elegant Jekyll theme</subtitle><author><name>Amit Merchant</name></author><entry><title type="html">Welcome to Jekyll!</title><link href="http://diogosm.github.io/blog/blog/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-06-08T17:01:49-05:00</published><updated>2019-06-08T17:01:49-05:00</updated><id>http://diogosm.github.io/blog/blog/welcome-to-jekyll</id><content type="html" xml:base="http://diogosm.github.io/blog/blog/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
@@ -11,4 +10,83 @@
 &lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>Amit Merchant</name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Introducing Reverie - A ridiculously elegant Jekyll theme</title><link href="http://diogosm.github.io/blog/blog/introducing-reverie-jekyll-theme/" rel="alternate" type="text/html" title="Introducing Reverie - A ridiculously elegant Jekyll theme" /><published>2019-02-13T00:00:00-06:00</published><updated>2019-02-13T00:00:00-06:00</updated><id>http://diogosm.github.io/blog/blog/introducing-reverie-jekyll-theme</id><content type="html" xml:base="http://diogosm.github.io/blog/blog/introducing-reverie-jekyll-theme/">&lt;p&gt;&lt;a href=&quot;https://github.com/amitmerchant1990/reverie&quot;&gt;Reverie&lt;/a&gt; is a &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;-powered theme which is simple and opinionated. It’s actually a fork of &lt;a href=&quot;https://github.com/barryclark/jekyll-now&quot;&gt;jekyll-now&lt;/a&gt; with some additional features and &lt;a href=&quot;https://github.com/amitmerchant1990/amitmerchant1990.github.io&quot;&gt;personal touches&lt;/a&gt; which I’ve implemented to suit my needs for &lt;a href=&quot;https://www.amitmerchant.com&quot;&gt;my blog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/reverie-demo.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;features&quot;&gt;Features&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog&lt;/li&gt;
+  &lt;li&gt;Fully responsive and mobile optimized base theme (Theme Demo)&lt;/li&gt;
+  &lt;li&gt;Sass/Coffeescript support using Jekyll 2.0&lt;/li&gt;
+  &lt;li&gt;Free hosting on your GitHub Pages user site&lt;/li&gt;
+  &lt;li&gt;Markdown blogging&lt;/li&gt;
+  &lt;li&gt;Elegant typography
+    &lt;ul&gt;
+      &lt;li&gt;Futura PT fonts (The same fonts which has been used on &lt;a href=&quot;https://pixar.com&quot;&gt;https://pixar.com&lt;/a&gt;)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Syntax highlighting using Pygments
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://draculatheme.com/&quot;&gt;Dracula syntax theme&lt;/a&gt; included&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Disqus commenting&lt;/li&gt;
+  &lt;li&gt;Google Analytics integration&lt;/li&gt;
+  &lt;li&gt;Categorize posts out-of-the box&lt;/li&gt;
+  &lt;li&gt;A home widget to show recent GitHub commit&lt;/li&gt;
+  &lt;li&gt;RSS Feed&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;using-reverie-on-github-pages&quot;&gt;Using Reverie on GitHub Pages&lt;/h2&gt;
+
+&lt;h3 id=&quot;step-1-fork-reverie-to-your-user-repository&quot;&gt;Step 1) Fork Reverie to your User Repository&lt;/h3&gt;
+
+&lt;p&gt;Fork &lt;a href=&quot;https://github.com/amitmerchant1990/reverie&quot;&gt;this repo&lt;/a&gt;, then rename the repository to &lt;code class=&quot;highlighter-rouge&quot;&gt;yourgithubusername.github.io&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Your Jekyll blog will often be viewable immediately at &lt;a href=&quot;https://yourgithubusername.github.io&quot;&gt;https://yourgithubusername.github.io&lt;/a&gt; (if it’s not, you can often force it to build by completing step 2)&lt;/p&gt;
+
+&lt;h3 id=&quot;step-2-customize-and-view-your-site&quot;&gt;Step 2) Customize and view your site&lt;/h3&gt;
+
+&lt;p&gt;Enter your site name, description, avatar and many other options by editing the &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here.&lt;/p&gt;
+
+&lt;p&gt;Making a change to &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable a few seconds later at &lt;a href=&quot;https://yourgithubusername.github.io&quot;&gt;https://yourgithubusername.github.io&lt;/a&gt; - if not, give it ten minutes as GitHub suggests and it’ll appear soon.&lt;/p&gt;
+
+&lt;h3 id=&quot;step-3-publish-your-first-blog-post&quot;&gt;Step 3) Publish your first blog post&lt;/h3&gt;
+
+&lt;p&gt;Create a new file called &lt;code class=&quot;highlighter-rouge&quot;&gt;/_posts/2019-2-13-Hello-World.md&lt;/code&gt; to publish your first blog post. That’s all you need to do to publish your first blog post! This &lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&quot;&gt;Markdown Cheatsheet&lt;/a&gt; might come in handy while writing the posts.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You can add additional posts in the browser on GitHub.com too! Just hit the &lt;kbd&gt;Create new file&lt;/kbd&gt; button in &lt;code class=&quot;highlighter-rouge&quot;&gt;/_posts/&lt;/code&gt; to create new content. Just make sure to include the &lt;a href=&quot;http://jekyllrb.com/docs/frontmatter/&quot;&gt;front-matter&lt;/a&gt; block at the top of each new blog post and make sure the post’s filename is in this format: year-month-day-title.md&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;using-categories-in-reverie&quot;&gt;Using Categories in Reverie&lt;/h2&gt;
+
+&lt;p&gt;You can categorize your content based on &lt;code class=&quot;highlighter-rouge&quot;&gt;categories&lt;/code&gt; in Reverie. For this, you just need to add &lt;code class=&quot;highlighter-rouge&quot;&gt;categories&lt;/code&gt; in front matter like below:&lt;/p&gt;
+
+&lt;p&gt;For adding single category:&lt;/p&gt;
+
+&lt;div class=&quot;language-md highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;categories: JavaScript
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;For adding multiple categories:&lt;/p&gt;
+
+&lt;div class=&quot;language-md highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;categories: &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;PHP, Laravel&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The contegorized content can be shown over this URL: &lt;a href=&quot;https://yourgithubusername.github.io/categories/&quot;&gt;https://yourgithubusername.github.io/categories/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;rss&quot;&gt;RSS&lt;/h2&gt;
+
+&lt;p&gt;The generated &lt;a href=&quot;https://en.wikipedia.org/wiki/RSS&quot;&gt;RSS feed&lt;/a&gt; of your blog can be found at &lt;a href=&quot;https://yourgithubusername.github.io/feed&quot;&gt;https://yourgithubusername.github.io/feed&lt;/a&gt;. You can see the example RSS feed over &lt;a href=&quot;https://www.amitmerchant.com/feed&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;sitemap&quot;&gt;Sitemap&lt;/h2&gt;
+
+&lt;p&gt;The generated sitemap of your blog can be found at &lt;a href=&quot;https://yourgithubusername.github.io/sitemap&quot;&gt;https://yourgithubusername.github.io/sitemap&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;license&quot;&gt;License&lt;/h2&gt;
+
+&lt;p&gt;MIT&lt;/p&gt;</content><author><name>Amit Merchant</name></author><summary type="html">Reverie is a Jekyll-powered theme which is simple and opinionated. It’s actually a fork of jekyll-now with some additional features and personal touches which I’ve implemented to suit my needs for my blog.</summary></entry></feed>
