@@ -4,15 +4,22 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Reverie is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Features
 
-
-[jekyll-organization]: https://github.com/jekyll
+- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
+- Fully responsive and mobile optimized base theme (Theme Demo)
+- Sass/Coffeescript support using Jekyll 2.0
+- Free hosting on your GitHub Pages user site
+- Markdown blogging
+- Syntax highlighting using Pygments
+    - Dracula syntax theme included
+- Disqus commenting
+- Google Analytics integration
+- Categorize posts out-of-the box
+- A home widget to show recent GitHub commit
+- RSS Feed
+- SEO friendly
