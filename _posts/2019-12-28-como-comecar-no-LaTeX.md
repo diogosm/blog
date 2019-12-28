@@ -58,9 +58,9 @@ Cada código LaTeX começa com uma preâmbulo, delimitado por uma função prede
 
 Uma lista mais completa de classes disponíveis pode ser encontrada em [[1]](https://ctan.org/topic/class){:target="_blank"}. Algumas opções também podem ser editadas nesse mesmo comando tais como tamanho da fonte (12pt), tamanho do papel (`a4paper`), formato da página (`onecolumn` ou `twocolumn`), entre outros. O comando abaixo, por exemplo, gera um documento do tipo artigo, com fonte padrão tamanho 12pt, em papel a4 e de impressão nos 2 lados da folha (`twosided`).
 
-'''latex
+```latex
 \documentclass[12pt, a4paper, twoside]{article}
-'''
+```
 
 Logo abaixo são declaradas, opcionalmente, eventuais bibliotecas usadas no código através do comando `\usepackage[opções]{biblioteca}`. Estas bibliotecas podem ser das mais diversas e podem servir para mudar cores no texto, inserir imagens, inserir fórmulas matemáticas, desenhos, mudar a linguagem e codificação, entre outros.
 
