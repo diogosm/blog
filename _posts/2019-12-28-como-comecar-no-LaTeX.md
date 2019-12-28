@@ -65,7 +65,7 @@ Cada documento é inicializado oficialmente após o uso das _tags_ `\begin{docum
 
 | ![out](https://user-images.githubusercontent.com/1641686/71540738-fee1e500-2924-11ea-801a-68769a541287.gif) | ![Seleção_104](https://user-images.githubusercontent.com/1641686/71540877-b297a480-2926-11ea-9ae5-0b962bfb0146.png) |
 |:----------------------------:|:----------------------------:|
-|	Figura 4 - Criando um projeto LaTeX e escrevendo texto	 ||
+|	<td colspan=2>Figura 4 - Criando um projeto LaTeX e escrevendo texto	 ||
 
 
 ## Referências
