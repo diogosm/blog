@@ -34,6 +34,10 @@ Neste caso vamos fazer uma busca simples: `Curriculum Vitae`. Após selecionar a
 |:------------:| 
 | Figura 2 - Clona o _template_ para área de trabalho do usuário |
 
+Após isso, o projeto será aberto. Em geral haverá apenas um arquivo `.tex`, que é o código principal do documento e onde normalmente será escrito o código.
 
+## E o código, como funciona?
+
+Cada código LaTeX começa com uma preâmbulo, delimitado por uma função predefinida chamada `\documentclass[options]{classe}`, que define o tipo de classe de documento que pode ter diversos tipos de formato 
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
