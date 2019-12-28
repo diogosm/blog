@@ -17,6 +17,8 @@ O LaTeX tem sido usado largamento pelo mundo para escrita científica acadêmica
 
 ## E como começar?
 
-Olá pessoal, neste post
+Embora o LaTeX tenha o objetivo de facilitar a geração de documentos, a sua instalação nem sempre é a das mais agradáveis e a instalação de pacotes, linguagens e outros _features_ pode ser uma tarefa árdua para usuários comuns.
+
+Neste _post_ recomendo o uso de editores LaTeX online, espécies de google docs do LaTeX :smiley:. Por muitos anos usei o [ShareLaTeX](http://sharelatex.com/)
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
