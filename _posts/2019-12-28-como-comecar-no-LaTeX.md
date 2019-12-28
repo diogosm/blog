@@ -12,15 +12,17 @@ Olá pessoal, neste _post_ vou falar sobre como dá os primeiros passos para ger
 
 ## Mas afinal, o que é LaTeX
 
-**LaTeX** (pronuncia-se LAY-tek ou LAH-tek) é uma ferramenta usada para gerar documentos com aparência profissional. É baseado na idéia **WYSIWYM** (_what you see is what you mean_ - o que você vê é o que você quer dizer) que significa que você precisa focar apenas no conteúdo que deseja escrever, evitando preocupar-se com formatação, espaçamento e elementos da página fora do lugar.
+**LaTeX** (pronuncia-se LAY-tek ou LAH-tek) é uma ferramenta usada para gerar documentos com aparência profissional. É baseado na idéia **WYSIWYM** (_what you see is what you mean_ - o que você vê é o que você quer dizer) que significa que você precisa focar apenas no conteúdo que deseja descrever, e não preocupar-se com elementos como formatação, espaçamento e símbolos da página fora do lugar.
 
-O LaTeX tem sido usado largamento pelo mundo para escrita científica acadêmica, principalmente, além de gerar livros e outras produções científicas. Devido ao grande número de bibliotecas disponíveis (criadas principalmente por outros amantes de LaTeX), as possibilidades são infinitas na criação de belos e bem formatados documentos científicos.
+O LaTeX é usado largamente pelo mundo para escrita científica, principalmente para gerar livros e artigos. Devido ao grande número de bibliotecas disponíveis (criadas principalmente por outros amantes de LaTeX), as possibilidades são infinitas na criação de documentos científicos bem formatados e com aparência respeitável.
 
 ## E como começar?
 
-Embora o LaTeX tenha o objetivo de facilitar a geração de documentos, a sua instalação nem sempre é a das mais agradáveis e a instalação de bibliotecas, pacotes de linguagens e outros _features_ pode ser uma tarefa árdua para usuários comuns.
+Embora o LaTeX tenha o objetivo de facilitar a geração de documentos, a sua instalação nem sempre é das mais agradáveis, e a instalação de bibliotecas, pacotes de linguagens e outros _features_ pode ser uma tarefa árdua para usuários comuns.
 
-Neste _post_ recomendo o uso de editores LaTeX online, espécies de google docs do LaTeX. Por muitos anos usei o [ShareLaTeX](http://sharelatex.com/), uma plataforma de código aberto que integra um ambiente de compilação LaTeX online que permite que o usuário não se preocupe com instalação de ferramentas, editores ou bibliotecas do LaTeX para gerar seus documentos. Há algum tempo atrás, no entanto, esta foi integrado ao [Overleaf](http://overleaf.com/) em apenas uma plataforma, que será a recomendada por este _post_.
+Neste _post_ recomendo o uso de editores LaTeX online, espécies de google docs para LaTeX. Entre esses, destaco o que usei por muitos anos, o [ShareLaTeX](http://sharelatex.com/), uma plataforma de código aberto que integra um ambiente de compilação LaTeX e online, permitindo que o usuário não se preocupe com instalação de ferramentas, editores ou bibliotecas para gerar seus documentos. Há algum tempo atrás, no entanto, esta foi integrado ao [Overleaf](http://overleaf.com/) em apenas uma plataforma, que é a recomendada aqui.
+
+> (...) esta foi integrado ao [Overleaf](http://overleaf.com/) em apenas uma plataforma, que é a recomendada aqui.
 
 Para começar no **Overleaf** crie um usuário usando seu email, conta do google ou do orcid [Overleaf register](https://www.overleaf.com/register). Após a criação do usuário, utilize a aba _templates_ na barra superior para pesquisar templates para facilitar o começo da sua jornada, conforme Figura 1. Nesta etapa você pode pesquisar os templates mais diversos como _journals_ conhecidos do IEEE, slides de universidades, modelos de carta, etc.
 
