@@ -24,7 +24,9 @@ Neste _post_ recomendo o uso de editores LaTeX online, espécies de google docs 
 
 > (...) esta foi integrado ao [Overleaf](http://overleaf.com/) em apenas uma plataforma, que é a recomendada aqui.
 
-Para começar no **Overleaf** crie um usuário usando seu email, conta do google ou do orcid [Overleaf register](https://www.overleaf.com/register). Após a criação do usuário, utilize a aba _templates_ na barra superior para pesquisar templates para facilitar o começo da sua jornada, conforme Figura 1. Nesta etapa você pode pesquisar os templates mais diversos como _journals_ conhecidos do IEEE, slides de universidades, modelos de carta, etc.
+Para começar no **Overleaf**, crie um usuário usando seu email, conta do google ou do orcid [Overleaf register](https://www.overleaf.com/register). Após a criação do usuário, clique na aba _templates_ na barra superior para pesquisar templates LaTeX para facilitar o começo da sua jornada, conforme Figura 1. Nesta etapa você pode pesquisar os templates mais diversos como _journals_ conhecidos do IEEE, slides de universidades, modelos de carta, etc.
+
+> Após a criação do usuário, clique na aba _templates_ na barra superior para pesquisar templates LaTeX para facilitar o começo da sua jornada
 
 | ![Template search](https://user-images.githubusercontent.com/1641686/71539654-e8805d00-2915-11ea-9dc0-96a404b176e5.png) | 
 |:------------:| 
