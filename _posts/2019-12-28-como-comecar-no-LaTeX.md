@@ -42,7 +42,26 @@ Após isso, o projeto será aberto. Em geral haverá apenas um arquivo `.tex`, q
 
 ## E o código, como funciona?
 
-Cada código LaTeX começa com uma preâmbulo, delimitado por uma função predefinida chamada `\documentclass[opções]{classe}`, que define o tipo de classe de documento que pode ter diversos tipos de formato como artigo (`article`), slides (`beamer`), artigo do IEEE (`IEEEtran`), livro (`book`), etc. Uma lista mais completa de classes disponíveis pode ser encontrada em [[1]](https://ctan.org/topic/class){:target="_blank"}. Alguns
+### Preâmbulo do código
+
+Cada código LaTeX começa com uma preâmbulo, delimitado por uma função predefinida chamada `\documentclass[opções]{classe}`, que define o tipo de classe de documento que pode ter diversos tipos de formato como artigo (`article`), slides (`beamer`), artigo do IEEE (`IEEEtran`), livro (`book`), etc. Uma lista mais completa de classes disponíveis pode ser encontrada em [[1]](https://ctan.org/topic/class){:target="_blank"}. Algumas opções também podem ser editadas neste mesmo comando tais como tamanho da fonte (12pt), tamanho do papel (a4), entre outros.
+
+Logo abaixo são declaradas, opcionalmente, eventuais bibliotecas usadas no código através do comando `\usepackage[opções]{biblioteca}`. Estas bibliotecas podem ser das mais diversas e podem servir para mudar cores no texto, inserir imagens, inserir fórmulas matemáticas, desenhos, mudar a linguagem e codificação, entre outros.
+
+Um exemplo pode ser visto na Figura 3, utilizando um dos resultados da busca por `Curriculum Vitae`. O resultado pode ser visto no Overleaf toda vez que você clicar no `Ctrl + Enter` ou `Ctrl + S`.
+
+| ![Seleção_102](https://user-images.githubusercontent.com/1641686/71540449-49616280-2921-11ea-9c64-26c433c26948.png) | 
+|:------------:| 
+| Figura 3 - Prêambulo de um documento LaTeX |
+
+### Iniciando o documento
+
+Cada documento é inicializado oficialmente após o uso das _tags_ `\begin{document}` e `\end{document}`. Dentro desta tag é colocado os elementos textuais como as seções (`\section{Introdução}`), subseções (`\subsection{Subseção}`) e demais elementos. Um exemplo de criação de projeto e escrita básica pode ser visto no _gif_ da Figura 4.
+
+| ![out](https://user-images.githubusercontent.com/1641686/71540738-fee1e500-2924-11ea-801a-68769a541287.gif) | 
+|:------------:| 
+| Figura 4 - Criando um projeto LaTeX e escrevendo texto |
+
 
 ## Referências
 
