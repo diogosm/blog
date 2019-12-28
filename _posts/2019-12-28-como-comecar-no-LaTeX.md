@@ -38,9 +38,14 @@ Neste caso vamos fazer uma busca simples: `Curriculum Vitae`. Após selecionar a
 |:------------:| 
 | Figura 2 - Clona o _template_ para área de trabalho do usuário |
 
-Após isso, o projeto será aberto. Em geral haverá apenas um arquivo `.tex`, que é o código principal do documento e onde normalmente será escrito o código.
+Após isso, o projeto será aberto. Em geral haverá apenas um arquivo `.tex` (chamado TeX), que é o código principal do documento e onde normalmente será escrito o código.
 
 ## E o código, como funciona?
+
+Um documento TeX é composto de duas partes que serão discutidas a seguir:
+
+* **Preâmbulo**: contém parâmetros gerais de organização e formatação do documento;
+* **Corpo**: contém todo o texto, seus ambientes e estruturas.
 
 ### Preâmbulo do código
 
@@ -56,7 +61,7 @@ Um exemplo pode ser visto na Figura 3, utilizando um dos resultados da busca por
 
 ### Iniciando o documento
 
-Cada documento é inicializado oficialmente após o uso das _tags_ `\begin{document}` e `\end{document}`. Dentro desta tag é colocado os elementos textuais como as seções (`\section{Introdução}`), subseções (`\subsection{Subseção}`) e demais elementos. Um exemplo de criação de projeto e escrita básica pode ser visto no _gif_ da Figura 4.
+Cada documento é inicializado oficialmente após o uso das _tags_ `\begin{document}` e `\end{document}`. Tudo que vem antes de `\begin{document}` é chamado de preâmbulo e tudo que vem após `\end{document}` é descartado. Dentro desta tag é colocado os elementos textuais como as seções (`\section{Introdução}`), subseções (`\subsection{Subseção}`) e demais elementos. Um exemplo de criação de projeto e escrita básica pode ser visto no _gif_ da Figura 4.
 
 | ![out](https://user-images.githubusercontent.com/1641686/71540738-fee1e500-2924-11ea-801a-68769a541287.gif) | 
 |:------------:| 
