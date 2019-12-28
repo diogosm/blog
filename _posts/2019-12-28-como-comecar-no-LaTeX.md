@@ -8,7 +8,6 @@ Olá pessoal, neste _post_ vou falar sobre como dá os primeiros passos em gerar
 
 | ![](https://miro.medium.com/max/1280/1*jZ6-zthg418clkertSnk8w.png) | 
 |:------------:| 
-| logo do LaTeX |
 
 ## Mas afinal, o que é LaTeX
 
