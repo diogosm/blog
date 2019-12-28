@@ -2,7 +2,7 @@
 published: true
 layout: post
 categories: latex overleaf
-title: Como começar no LaTeX
+title: Como começar no LaTeX - parte 1
 ---
 Olá pessoal, neste _post_ vou falar sobre como dá os primeiros passos para gerar documentos em LaTeX de maneira fácil e descomplicada, principalmente para quem não tem afinidade com programação. Apresentarei ferramentas e modos de usar templates que podem lhe ajudar muito na introdução ao LaTeX.
 
