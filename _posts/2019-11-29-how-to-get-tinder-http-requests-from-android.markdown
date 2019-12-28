@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Como manipular http requests do tinder usando android, PC e proxy"
-date:   2019-06-08 17:01:49 -0500
+title: 'Como manipular http requests do tinder usando android, PC e proxy'
+date: '2019-06-08 17:01:49 -0500'
 categories: jekyll update
+published: true
 ---
 No post de hoje, irei contar uma experiência aleatória que resolvi postar após um comentário de um colega de laboratório. Em uma conversa sobre tinder,
 
