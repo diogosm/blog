@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Olá pessoal, neste _post_ vou falar sobre como dá os primeiros passos em gerar documentos em LaTeX de uma maneira fácil e descomplicada, principalmente para quem não tem afinidade com programação e afins. Assim demonstrarei ferramentas e modos de usar templates que podem lhe ajudar muito na introdução ao LaTeX.
 
