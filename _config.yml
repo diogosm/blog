@@ -6,7 +6,7 @@
 name: Diogo's blog
 
 # Name of the author
-author: Amit Merchant
+author: Diogo 'dsm' Soares
 
 # Short bio or description (displayed in the header)
 description: >
@@ -86,6 +86,7 @@ plugins:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-seo-tag
   - jekyll-paginate
+  - jemoji
 
 # Exclude these files from your production _site
 exclude:
