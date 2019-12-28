@@ -22,10 +22,18 @@ Embora o LaTeX tenha o objetivo de facilitar a geração de documentos, a sua in
 
 Neste _post_ recomendo o uso de editores LaTeX online, espécies de google docs do LaTeX. Por muitos anos usei o [ShareLaTeX](http://sharelatex.com/), uma plataforma de código aberto que integra um ambiente de compilação LaTeX online que permite que o usuário não se preocupe com instalação de ferramentas, editores ou bibliotecas do LaTeX para gerar seus documentos. Há algum tempo atrás, no entanto, esta foi integrado ao [Overleaf](http://overleaf.com/) em apenas uma plataforma, que será a recomendada por este _post_.
 
-Para começar no **Overleaf** crie um usuário usando seu email, conta do google ou do orcid [Overleaf register](https://www.overleaf.com/register). Após a criação do usuário, utilize a aba _templates_ na barra superior para pesquisar templates para facilitar o começo da sua jornada, conforme Figura 1.
+Para começar no **Overleaf** crie um usuário usando seu email, conta do google ou do orcid [Overleaf register](https://www.overleaf.com/register). Após a criação do usuário, utilize a aba _templates_ na barra superior para pesquisar templates para facilitar o começo da sua jornada, conforme Figura 1. Nesta etapa você pode pesquisar os templates mais diversos como _journals_ conhecidos do IEEE, slides de universidades, modelos de carta, etc.
 
 | ![Template search](https://user-images.githubusercontent.com/1641686/71539654-e8805d00-2915-11ea-9dc0-96a404b176e5.png) | 
 |:------------:| 
 | Figura 1 - Busca de _templates_ do Overleaf |
+
+Neste caso vamos fazer uma busca simples: `Curriculum Vitae`. Após selecionar algum dos resultados da busca você verá uma tela com uma pequena prévia do modelo do documento, conforme a Figura 2. Para abri-lo na sua conta pessoal do Overleaf, clique em **Open as Template**, que criará uma cópia na sua área de trabalho do Overleaf, para começar a edição.
+
+| ![Template opening](https://user-images.githubusercontent.com/1641686/71539691-7ceabf80-2916-11ea-9471-7619ed5e1488.png) | 
+|:------------:| 
+| Figura 2 - Clona o _template_ para área de trabalho do usuário |
+
+
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
