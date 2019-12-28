@@ -71,5 +71,3 @@ Cada documento é inicializado oficialmente após o uso das _tags_ `\begin{docum
 ## Referências
 
 [1] [https://ctan.org/topic/class](https://ctan.org/topic/class)
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
