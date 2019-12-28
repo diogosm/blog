@@ -56,19 +56,28 @@ Cada código LaTeX começa com uma preâmbulo, delimitado por uma função prede
 * poster (`sciposter`): classe para criação de _banners_;
 * livro (`book`): classe para livros com estruturas de capítulos (`\chapter`).
 
-Uma lista mais completa de classes disponíveis pode ser encontrada em [[1]](https://ctan.org/topic/class){:target="_blank"}. Algumas opções também podem ser editadas nesse mesmo comando tais como tamanho da fonte (12pt), tamanho do papel (`a4paper`), formato da página (`onecolumn` ou `twocolumn`), entre outros. O comando abaixo, por exemplo, gera um documento do tipo artigo, com fonte padrão tamanho 12pt, em papel a4 e de impressão nos 2 lados da folha (`twosided`).
+Uma lista mais completa de classes disponíveis pode ser encontrada em [[1]](https://ctan.org/topic/class){:target="_blank"}. Algumas opções também podem ser editadas nesse mesmo comando tais como tamanho da fonte (12pt), tamanho do papel (`a4paper`), formato da página (`onecolumn` ou `twocolumn`), entre outros. O comando abaixo, por exemplo, gera um documento do tipo artigo, com fonte padrão tamanho 12pt, em papel a4 e de impressão nos 2 lados da folha (`twosided`). As demais opções são definidas pelo valor _default_.
 
 ```latex
 \documentclass[12pt, a4paper, twoside]{article}
 ```
 
-Logo abaixo são declaradas, opcionalmente, eventuais bibliotecas usadas no código através do comando `\usepackage[opções]{biblioteca}`. Estas bibliotecas podem ser das mais diversas e podem servir para mudar cores no texto, inserir imagens, inserir fórmulas matemáticas, desenhos, mudar a linguagem e codificação, entre outros.
+Logo abaixo são declaradas, opcionalmente, eventuais bibliotecas usadas no código através do comando `\usepackage[opções]{biblioteca}`. Estas bibliotecas podem ser das mais diversas e podem servir para mudar cores no texto, inserir imagens, inserir fórmulas matemáticas, desenhos, mudar a linguagem e codificação, entre outros. Exemplos de bibliotecas:
 
-Um exemplo pode ser visto na Figura 3, utilizando um dos resultados da busca por `Curriculum Vitae`. O resultado pode ser visto no Overleaf toda vez que você clicar no `Ctrl + Enter` ou `Ctrl + S`.
+* gráfico: `\usepackage{graphicx}`;
+* lıngua portuguesa: `\usepackage[brazil]{babel}`;
+* acentuacao direta: `\usepackage[latin1]{inputenc}`;
+* hifenizacao `:\usepackage[T1]{fontenc}`;
+* margens: `\usepackage{geometry}`.
+
+Um exemplo pode ser visto na Figura 3, utilizando um dos resultados da busca por `Curriculum Vitae`. O pdf gerado pode ser visto no Overleaf toda vez que você clicar nas teclas `Ctrl + Enter` ou `Ctrl + S`.
 
 | ![Seleção_102](https://user-images.githubusercontent.com/1641686/71540449-49616280-2921-11ea-9c64-26c433c26948.png) | 
 |:------------:| 
 | Figura 3 - Prêambulo de um documento LaTeX |
+
+Uma lista das principais bibliotecas e suas respectivas funções podem ser encontradas em [[2]](http://linorg.usp.br/CTAN/obsolete/help/Catalogue/alpha.html){:target="_blank"}.	
+
 
 ### Iniciando o documento
 
@@ -78,8 +87,7 @@ Cada documento é inicializado oficialmente após o uso das _tags_ `\begin{docum
 |:----------------------------:|:----------------------------:|
 ||	Figura 4 - Criando um projeto LaTeX e escrevendo texto	 |
 
-
-
 ## Referências
 
 [1] [https://ctan.org/topic/class](https://ctan.org/topic/class)
+[2] [http://linorg.usp.br/CTAN/obsolete/help/Catalogue/alpha.html](http://linorg.usp.br/CTAN/obsolete/help/Catalogue/alpha.html)
