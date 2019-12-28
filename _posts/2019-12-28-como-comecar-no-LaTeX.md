@@ -38,6 +38,10 @@ Após isso, o projeto será aberto. Em geral haverá apenas um arquivo `.tex`, q
 
 ## E o código, como funciona?
 
-Cada código LaTeX começa com uma preâmbulo, delimitado por uma função predefinida chamada `\documentclass[options]{classe}`, que define o tipo de classe de documento que pode ter diversos tipos de formato 
+Cada código LaTeX começa com uma preâmbulo, delimitado por uma função predefinida chamada `\documentclass[opções]{classe}`, que define o tipo de classe de documento que pode ter diversos tipos de formato como artigo (`article`), slides (`beamer`), artigo do IEEE (`IEEEtran`), livro (`book`), etc. Uma lista mais completa de [link](url){:target="_blank"}
+
+## Referências
+
+[1] [https://ctan.org/topic/class](https://ctan.org/topic/class)
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
