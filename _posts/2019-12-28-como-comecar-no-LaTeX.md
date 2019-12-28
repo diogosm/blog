@@ -42,7 +42,7 @@ Após isso, o projeto será aberto. Em geral haverá apenas um arquivo `.tex`, q
 
 ## E o código, como funciona?
 
-Cada código LaTeX começa com uma preâmbulo, delimitado por uma função predefinida chamada `\documentclass[opções]{classe}`, que define o tipo de classe de documento que pode ter diversos tipos de formato como artigo (`article`), slides (`beamer`), artigo do IEEE (`IEEEtran`), livro (`book`), etc. Uma lista mais completa de classes disponíveis pode ser encontrada em [1](https://ctan.org/topic/class){:target="_blank"}. 
+Cada código LaTeX começa com uma preâmbulo, delimitado por uma função predefinida chamada `\documentclass[opções]{classe}`, que define o tipo de classe de documento que pode ter diversos tipos de formato como artigo (`article`), slides (`beamer`), artigo do IEEE (`IEEEtran`), livro (`book`), etc. Uma lista mais completa de classes disponíveis pode ser encontrada em [[1]](https://ctan.org/topic/class){:target="_blank"}. 
 
 ## Referências
 
