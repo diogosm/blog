@@ -17,8 +17,10 @@ O LaTeX tem sido usado largamento pelo mundo para escrita científica acadêmica
 
 ## E como começar?
 
-Embora o LaTeX tenha o objetivo de facilitar a geração de documentos, a sua instalação nem sempre é a das mais agradáveis e a instalação de pacotes, linguagens e outros _features_ pode ser uma tarefa árdua para usuários comuns.
+Embora o LaTeX tenha o objetivo de facilitar a geração de documentos, a sua instalação nem sempre é a das mais agradáveis e a instalação de bibliotecas, pacotes de linguagens e outros _features_ pode ser uma tarefa árdua para usuários comuns.
 
-Neste _post_ recomendo o uso de editores LaTeX online, espécies de google docs do LaTeX :smiley:. Por muitos anos usei o [ShareLaTeX](http://sharelatex.com/)
+Neste _post_ recomendo o uso de editores LaTeX online, espécies de google docs do LaTeX :smiley:. Por muitos anos usei o [ShareLaTeX](http://sharelatex.com/), uma plataforma de código aberto que integra um ambiente de compilação LaTeX online que permite que o usuário não se preocupe com instalação de ferramentas, editores ou bibliotecas do LaTeX para gerar seus documentos. Há algum tempo atrás, no entanto, esta foi integrado ao [Overleaf](http://overleaf.com/) em apenas uma plataforma, que será a recomendada por este _post_.
+
+Para começar no **Overleaf** crie um usuário usando seu email, conta do google ou do orcid [Overleaf register](https://www.overleaf.com/register). Após a criação do usuário
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
