@@ -64,8 +64,8 @@ Um exemplo pode ser visto na Figura 3, utilizando um dos resultados da busca por
 Cada documento é inicializado oficialmente após o uso das _tags_ `\begin{document}` e `\end{document}`. Tudo que vem antes de `\begin{document}` é chamado de preâmbulo e tudo que vem após `\end{document}` é descartado. Dentro desta tag é colocado os elementos textuais como as seções (`\section{Introdução}`), subseções (`\subsection{Subseção}`) e demais elementos. Um exemplo de criação de projeto e escrita básica pode ser visto no _gif_ da Figura 4.
 
 | ![out](https://user-images.githubusercontent.com/1641686/71540738-fee1e500-2924-11ea-801a-68769a541287.gif) | ![Seleção_104](https://user-images.githubusercontent.com/1641686/71540877-b297a480-2926-11ea-9ae5-0b962bfb0146.png) |
-|:------------:|:------------:|
-| Figura 4 - Criando um projeto LaTeX e escrevendo texto | |
+|:----------------------------:|:----------------------------:|
+|	Figura 4 - Criando um projeto LaTeX e escrevendo texto	 ||
 
 
 ## Referências
