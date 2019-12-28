@@ -49,7 +49,18 @@ Um documento TeX é composto de duas partes que serão discutidas a seguir:
 
 ### Preâmbulo do código
 
-Cada código LaTeX começa com uma preâmbulo, delimitado por uma função predefinida chamada `\documentclass[opções]{classe}`, que define o tipo de classe de documento que pode ter diversos tipos de formato como artigo (`article`), slides (`beamer`), artigo do IEEE (`IEEEtran`), livro (`book`), etc. Uma lista mais completa de classes disponíveis pode ser encontrada em [[1]](https://ctan.org/topic/class){:target="_blank"}. Algumas opções também podem ser editadas neste mesmo comando tais como tamanho da fonte (12pt), tamanho do papel (a4), entre outros.
+Cada código LaTeX começa com uma preâmbulo, delimitado por uma função predefinida chamada `\documentclass[opções]{classe}`, que define o tipo de classe de documento que pode ter diversos tipos de formato como:
+
+* artigo (`article`): classe para textos pequenos como artigos, resumos e relatórios que seguem a estrutura de seções (`\section` e `\subsection`);
+* slides (`beamer`): classe para geração de _slides_;
+* poster (`sciposter`): classe para criação de _banners_;
+* livro (`book`): classe para livros com estruturas de capítulos (`\chapter`).
+
+Uma lista mais completa de classes disponíveis pode ser encontrada em [[1]](https://ctan.org/topic/class){:target="_blank"}. Algumas opções também podem ser editadas nesse mesmo comando tais como tamanho da fonte (12pt), tamanho do papel (`a4paper`), formato da página (`onecolumn` ou `twocolumn`), entre outros. O comando abaixo, por exemplo, gera um documento do tipo artigo, com fonte padrão tamanho 12pt, em papel a4 e de impressão nos 2 lados da folha (`twosided`).
+
+'''latex
+\documentclass[12pt, a4paper, twoside]{article}
+'''
 
 Logo abaixo são declaradas, opcionalmente, eventuais bibliotecas usadas no código através do comando `\usepackage[opções]{biblioteca}`. Estas bibliotecas podem ser das mais diversas e podem servir para mudar cores no texto, inserir imagens, inserir fórmulas matemáticas, desenhos, mudar a linguagem e codificação, entre outros.
 
@@ -66,6 +77,7 @@ Cada documento é inicializado oficialmente após o uso das _tags_ `\begin{docum
 | ![out](https://user-images.githubusercontent.com/1641686/71540738-fee1e500-2924-11ea-801a-68769a541287.gif) | ![Seleção_104](https://user-images.githubusercontent.com/1641686/71540877-b297a480-2926-11ea-9ae5-0b962bfb0146.png) |
 |:----------------------------:|:----------------------------:|
 ||	Figura 4 - Criando um projeto LaTeX e escrevendo texto	 |
+
 
 
 ## Referências
